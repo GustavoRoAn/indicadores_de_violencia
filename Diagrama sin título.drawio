@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T18:42:44.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="XiL33z9-kXjRZKBCc0Tg" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T18:54:44.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="vK7k1FtIeb08egeZsdcs" version="21.2.3" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
-    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -8,19 +8,19 @@
           <mxGeometry x="597" y="370" width="560" height="420" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-31" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400.0029262137416" y="170.0029262137416" width="318.8641475725169" height="317.5941475725168" as="geometry" />
+          <mxGeometry x="433.8" y="203.8" width="288.87" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-24" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="YfqoGUxCrP-vsWwG5_EB-31">
-          <mxGeometry x="-38" y="174" width="334.32" height="29.86" as="geometry" />
+          <mxGeometry x="-65.22727675199019" y="149.8768172015242" width="302.8719883850744" height="26.325422127279484" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-26" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="YfqoGUxCrP-vsWwG5_EB-31">
-          <mxGeometry x="3" y="134" width="334.32" height="29.86" as="geometry" />
+          <mxGeometry x="-28.08396637932911" y="114.61168374234202" width="302.8719883850744" height="26.325422127279484" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-27" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="YfqoGUxCrP-vsWwG5_EB-31">
-          <mxGeometry x="-19" y="154" width="334.32" height="29.86" as="geometry" />
+          <mxGeometry x="-48.014523164659444" y="132.2442504719331" width="302.8719883850744" height="26.325422127279484" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-28" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="YfqoGUxCrP-vsWwG5_EB-31">
-          <mxGeometry x="23" y="114" width="334.32" height="29.86" as="geometry" />
+          <mxGeometry x="-9.965278392665168" y="96.97911701275095" width="302.8719883850744" height="26.325422127279484" as="geometry" />
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-32" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="660" y="420" width="460" height="320" as="geometry" />
@@ -42,6 +42,30 @@
         </mxCell>
         <mxCell id="YfqoGUxCrP-vsWwG5_EB-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Clase&lt;br&gt;socio-económica&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="YfqoGUxCrP-vsWwG5_EB-32">
           <mxGeometry y="120" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-34" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Obstrucción a la expresión&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Amenaza&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Negación de derechos&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;- Anulación del reconocimiento&lt;/font&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Desigualdad&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Intolerancia&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="780" y="50" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-37" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Ejercicios de fuerza&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Actos de corrupción&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="110" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-38" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Manipulación&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Provocación&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="370" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-39" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Difamación&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="630" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-40" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Espionaje&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Homicidios&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="890" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-41" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Ataques no planificados&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="960" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqoGUxCrP-vsWwG5_EB-42" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;- Ataques sistematizados&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="890" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
