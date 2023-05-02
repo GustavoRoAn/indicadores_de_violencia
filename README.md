@@ -1,5 +1,5 @@
 # Indicadores de Violencia
-En colaboración por: Samanta Daniel Chico.
+En colaboración por: Samanta Daniel Chico, politóloga de la UNAM.
 
 Trabajo escolar en el que se construye un esquema que contiene indicadores de violencia en cuatro dimensiones principales y se elaboran escenarios en el plano político y social Mexicano. Las cuatro dimensiones mencionadas son la política, la militar, la social y la psicológica, señaladas por los colores; así mismo, la anchura de los bloques triangulares refleja el grado de violencia aplicada en el tiempo correspondiente. Además, se admite las violencias en la interseccionalidad de género, racialidad, grupo socioeconómico y neurodesarrollo; entendiendo que se ejercen con mayor o menos grado dependiendo de estas 4 secciones. 
 
